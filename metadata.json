@@ -1,0 +1,6 @@
+{
+  "name": "LexiCue",
+  "description": "A modern Wordle-style game with categories, daily challenges, and hard mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
